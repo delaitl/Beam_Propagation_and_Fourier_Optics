@@ -1,2 +1,2 @@
-# Beam_Propagation_and_Fourier_Optics
+# Beam Propagation and Fourier Optics
 This repository contains all my projects in the field of Beam Prop and Fourier optics
