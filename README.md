@@ -1,5 +1,5 @@
 # Beam Propagation and Fourier Optics
-This repository contains all my projects in the field of Beam Prop and Fourier optics
+This repository contains all my projects in the field of Beam propagation and Fourier optics
 
 ## Anisotropic Media
 The report is available and describes the variation of polarization of different EM waves through a twisted nematic liquid crystal cell. 
